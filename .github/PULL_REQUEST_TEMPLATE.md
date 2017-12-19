@@ -16,8 +16,8 @@
 
 
 **Please check if the PR fulfills these requirements**
-- [ ] The commit message follows our [guidelines](../DEVELOPERS.md#commits)
-- [ ] Fix/Feature: [Docs](../DEVELOPERS.md#documentation) have been added/updated
+- [ ] The commit message follows our [guidelines](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits)
+- [ ] Fix/Feature: [Docs](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#documentation) have been added/updated
 - [ ] Fix/Feature: Tests have been added; existing tests pass
 
 **Other information**:
